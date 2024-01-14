@@ -1,0 +1,135 @@
+{
+  "roots": [
+    {
+      "key": "d8t4f43tvk1vfpgv6m0c1ui",
+      "title": "ECON2020",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": [
+        {
+          "key": "3lxfvnde3q072iu6qh0vy34",
+          "title": "Chapter1",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": []
+        },
+        {
+          "key": "3zqold6z4jqyhgveg8qiyea",
+          "title": "Chapter2",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "554n1k1clsrt2jpfdd878f7",
+      "title": "Daily",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": [
+        {
+          "key": "bbd34pji6cs935pn8pvi4sq",
+          "title": "Journal",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": [
+            {
+              "key": "44yfyxjrg2rujnvamf58049",
+              "title": "2024",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "children": [
+                {
+                  "key": "z29v8yok8vscrpyjspfw57h",
+                  "title": "01",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "children": [
+                    {
+                      "key": "i6b37mwxuoi0cua9rrx9fgl",
+                      "title": "2024-01-13",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "i8wmsdhy44ptf3bft04shf8",
+      "title": "Templates",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": [
+        {
+          "key": "jze365z5z4ftfxcpuqsictg",
+          "title": "Daily Journal Template",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "thr20macvfz32irpg8oli3u",
+      "title": "Tutorial",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": [
+        {
+          "key": "sxu1y3oqvxvp95qgjpvw7hl",
+          "title": "One",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "d8t4f43tvk1vfpgv6m0c1ui": null,
+    "3lxfvnde3q072iu6qh0vy34": "d8t4f43tvk1vfpgv6m0c1ui",
+    "3zqold6z4jqyhgveg8qiyea": "d8t4f43tvk1vfpgv6m0c1ui",
+    "554n1k1clsrt2jpfdd878f7": null,
+    "bbd34pji6cs935pn8pvi4sq": "554n1k1clsrt2jpfdd878f7",
+    "44yfyxjrg2rujnvamf58049": "bbd34pji6cs935pn8pvi4sq",
+    "z29v8yok8vscrpyjspfw57h": "44yfyxjrg2rujnvamf58049",
+    "i6b37mwxuoi0cua9rrx9fgl": "z29v8yok8vscrpyjspfw57h",
+    "i8wmsdhy44ptf3bft04shf8": null,
+    "jze365z5z4ftfxcpuqsictg": "i8wmsdhy44ptf3bft04shf8",
+    "thr20macvfz32irpg8oli3u": null,
+    "sxu1y3oqvxvp95qgjpvw7hl": "thr20macvfz32irpg8oli3u"
+  },
+  "notesLabelById": {
+    "d8t4f43tvk1vfpgv6m0c1ui": "ECON2020",
+    "3lxfvnde3q072iu6qh0vy34": "Chapter1",
+    "3zqold6z4jqyhgveg8qiyea": "Chapter2",
+    "554n1k1clsrt2jpfdd878f7": "Daily",
+    "bbd34pji6cs935pn8pvi4sq": "Journal",
+    "44yfyxjrg2rujnvamf58049": "2024",
+    "z29v8yok8vscrpyjspfw57h": "01",
+    "i6b37mwxuoi0cua9rrx9fgl": "2024-01-13",
+    "i8wmsdhy44ptf3bft04shf8": "Templates",
+    "jze365z5z4ftfxcpuqsictg": "Daily Journal Template",
+    "thr20macvfz32irpg8oli3u": "Tutorial",
+    "sxu1y3oqvxvp95qgjpvw7hl": "One"
+  }
+}

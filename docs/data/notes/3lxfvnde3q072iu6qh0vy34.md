@@ -1,0 +1,20 @@
+
+# Macroeconomics :
+
+The study of the economy as a whole addresses many topical issues such as : cost of living, why are countries poor, what policies might hwlp them grow out of the povery, trade deficit and how does that affect the countries well-being.
+
+# Economic models:
+
+Economic Models are simplified versions of more complex realities with irrelevant details stripped away. They are used for the following :
+
+1. Showing replationships between variables.
+2. Explain the economy's behaviour
+3. Devise policies to improve the economic performance
+
+### Example of a model: Supply and demand for new cars
+
+Shows how various events affect the price and quantity of
+cars. Assumes the market is competitive: each buyer and seller is
+too small to affect the market price.
+
+Variable
